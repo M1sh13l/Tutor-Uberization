@@ -1,24 +1,66 @@
 # Tutor Uberization Platform
 
-A tutoring marketplace app that connects students/parents with verified tutors, similar to an “Uber-style” matching and booking flow.
+A tutoring marketplace application that connects students and parents with verified tutors using an Uber-style matching and booking system.
+
+---
 
 ## Problem
-Finding trustworthy tutors is time-consuming and inconsistent (availability, pricing, quality, and verification vary). This project proposes a platform that helps students quickly find, compare, and book tutors.
 
-## Key Features
-- User accounts (Student / Parent / Tutor)
-- Tutor profiles (subjects, pricing, location/online, availability)
-- Search & filtering (subject, rating, price, availability)
-- Booking & scheduling
-- Ratings & reviews
-- (Optional) Online session support / chat
-- (Optional) Payments and receipts
+Finding trustworthy tutors is time-consuming and inconsistent. Students and parents struggle with:
 
-## Documents
-- **SRS:** `docs/SRS.pdf`
-- **Presentation:** `docs/Presentation.pdf`
+- Unverified tutor quality
+- Unclear pricing
+- Scheduling conflicts
+- No centralized booking system
 
-## Team
-- Mashael Maged
+---
+
+## Proposed Solution
+
+A centralized tutoring platform that allows users to:
+
+- Create accounts (Student / Parent / Tutor)
+- Search tutors by subject, price, availability
+- View ratings and reviews
+- Book sessions instantly
+- Manage schedules
+
+---
+
+## System Overview
+
+The platform includes:
+
+- User authentication system
+- Tutor profile management
+- Booking & scheduling system
+- Review & rating mechanism
+- Admin monitoring panel
+
+---
+
+## Project Structure
+
+---
+
+## Documentation
+
+- [SRS Document](docs/SRS.pdf)
+- [Project Presentation](docs/Presentation.pdf)
+
+---
+
+## Future Improvements
+
+- AI-based tutor recommendation
+- Online payment integration
+- Video session support
+- Mobile application version
+
+---
+
+## Team Members
+
+- Mashael Saeed
 - Sarah Elshiaty
-- Seif ELshiaty
+- Seifeldin Elshiaty
