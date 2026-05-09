@@ -1,0 +1,38 @@
+/* Booking & confirmation pages */
+
+h1 {
+    font-size: 1.9rem;
+    margin-bottom: 14px;
+}
+
+.booking-layout {
+    margin-top: 4px;
+}
+
+.booking-summary h2,
+.booking-payment h2 {
+    margin-bottom: 10px;
+}
+
+.booking-summary p {
+    font-size: 0.95rem;
+    margin-bottom: 4px;
+}
+
+.booking-payment form label {
+    font-size: 0.85rem;
+}
+
+.booking-payment .inline-inputs input {
+    text-align: center;
+}
+
+/* Confirmation page card */
+
+.card h1 {
+    font-size: 1.7rem;
+}
+
+.card p {
+    margin-bottom: 4px;
+}

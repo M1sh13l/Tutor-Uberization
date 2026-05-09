@@ -1,0 +1,33 @@
+/* Login & Sign Up pages */
+
+h1 {
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+.page-center {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 55vh;
+}
+
+.auth-card {
+    max-width: 380px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.auth-card form {
+    margin-top: 6px;
+}
+
+.auth-card label {
+    font-size: 0.9rem;
+}
+
+.auth-card input,
+.auth-card select {
+    width: 100%;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+/* Tutors list page */
+
+h1 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.filter-form {
+    margin-bottom: 16px;
+}
+
+.filter-form input {
+    max-width: 220px;
+}
+
+.tutor-list {
+    margin-top: 6px;
+}
+
+.tutor-card {
+    border-radius: 20px;
+}
+
+.tutor-card-body h2 {
+    font-size: 1.25rem;
+}
+
+.tutor-subject {
+    font-weight: 500;
+}
+
+.tutor-rating {
+    font-weight: 500;
+}
+
+.tag {
+    background: #e0f2fe;
+    color: #1d4ed8;
+}
