@@ -1,61 +1,128 @@
-# Tutor Uberization Platform
+# Tutorly – Tutor Uberization Platform
 
-A tutoring marketplace application that connects students and parents with verified tutors using an Uber-style matching and booking system.
+A modern tutoring marketplace platform designed to connect students and parents with qualified tutors through a simple and scalable booking system.
 
----
-
-## Problem
-
-Finding trustworthy tutors is time-consuming and inconsistent. Students and parents struggle with:
-
-- Unverified tutor quality
-- Unclear pricing
-- Scheduling conflicts
-- No centralized booking system
+The project was developed as part of a Software Engineering course and focuses on system analysis, UI/UX design, modular architecture, and responsive front-end development.
 
 ---
 
-## Proposed Solution
+## Overview
 
-A centralized tutoring platform that allows users to:
+Tutorly provides a centralized platform where users can:
 
-- Create accounts (Student / Parent / Tutor)
-- Search tutors by subject, price, availability
-- View ratings and reviews
-- Book sessions instantly
-- Manage schedules
+- Search tutors by subject and city
+- View tutor profiles and ratings
+- Book tutoring sessions
+- Simulate secure payment workflows
+- Access responsive interfaces across devices
+
+The project follows software engineering principles including structured planning, requirement analysis, interface prototyping, and scalable system design.
 
 ---
 
-## System Overview
+## Features
 
-The platform includes:
+- Responsive modern UI design
+- Tutor search and filtering
+- Tutor profile pages
+- Session booking workflow
+- Payment interface simulation
+- Mobile-friendly design
+- Organized modular front-end structure
 
-- User authentication system
-- Tutor profile management
-- Booking & scheduling system
-- Review & rating mechanism
-- Admin monitoring panel
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- UI/UX Design Principles
+- Software Engineering Principles
 
 ---
 
 ## Project Structure
 
+```text
+Tutorly-Platform/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── screenshots/
+│   ├── homepage.png
+│   ├── tutor-search.png
+│   ├── tutor-profile.png
+│   ├── booking.png
+│   └── mobile-view.png
+│
+├── docs/
+│   ├── SRS.pdf
+│   ├── Presentation.pdf
+│   └── UML-Diagrams.pdf
+│
+└── README.md
+```
+
+---
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Tutor Search
+![Tutor Search](screenshots/tutor-search.png)
+
+### Tutor Profile
+![Tutor Profile](screenshots/tutor-profile.png)
+
+### Booking & Payment
+![Booking](screenshots/booking.png)
+
+### Mobile Responsive View
+![Mobile View](screenshots/mobile-view.png)
+
+---
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/Tutorly-Platform.git
+```
+
+2. Open the project folder.
+
+3. Run `index.html` in any web browser.
+
 ---
 
 ## Documentation
 
-- [SRS Document](docs/SRS.pdf)
-- [Project Presentation](docs/Presentation.pdf)
+The repository also includes:
+
+- Software Requirements Specification (SRS)
+- UML Diagrams
+- Project Presentation
+
+Located inside the `docs/` folder.
 
 ---
 
 ## Future Improvements
 
+- Real database integration
+- User authentication system
+- Real-time tutor availability
+- Online payment gateway
+- Messaging system
 - AI-based tutor recommendation
-- Online payment integration
-- Video session support
-- Mobile application version
+- Backend API integration
 
 ---
 
@@ -64,3 +131,9 @@ The platform includes:
 - Mashael Saeed
 - Sarah Elshiaty
 - Seifeldin Elshiaty
+
+---
+
+## License
+
+This project is for educational purposes only.
