@@ -93,7 +93,8 @@ Tutorly-Platform/
 │
 ├── docs/
 │   ├── SRS.pdf
-│   └── Presentation.pdf
+│   ├── Presentation.pdf
+│   └── System-Architecture.md
 │
 └── README.md
 ```
